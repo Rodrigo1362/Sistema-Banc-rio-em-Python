@@ -16,8 +16,6 @@ Projeto simples de um sistema bancário feito em Python para rodar no terminal. 
 
 ---
 
-## ▶️ Como Executar
-- copie o Scrip ou 
 ## 💻 Exemplo de Uso
 [d] Depositar
 [s] Sacar 
